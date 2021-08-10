@@ -1,0 +1,17 @@
+h3 {
+	color: blue;
+}
+
+#top {
+	color: red;
+	text-align: center;
+}
+
+#rules {
+	color: blue;
+	font-size: 13px;
+	font-weight: 700;
+	font-style: oblique;
+	background-color: azure;
+	opacity: .7;
+}
