@@ -1,5 +1,9 @@
 h3 {
-	color: blue;
+	color: green;
+}
+
+h3.hl {
+	color: red;
 }
 
 #top {
@@ -7,11 +11,16 @@ h3 {
 	text-align: center;
 }
 
-#rules {
-	color: blue;
+.joke {
+	color: green;
 	font-size: 13px;
 	font-weight: 700;
 	font-style: oblique;
 	background-color: azure;
 	opacity: .7;
+}
+
+section h3 {
+	text-align: center;
+	font-size: 24px;
 }
